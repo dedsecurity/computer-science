@@ -171,8 +171,8 @@
 - [Stack Overflow](https://stackoverflow.com/)
 - [Dzone](https://dzone.com/)
 
-### Coding Practice Sites :zap:
-- :link: [CodeForces](http://codeforces.com/)
+### Tech Channels :zap:
+- :link: [Filipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
 - :link: [CodeChef](https://www.codechef.com)
 - :link: [Coderbyte](https://coderbyte.com/)
 - :link: [CodinGame](https://www.codingame.com/)
