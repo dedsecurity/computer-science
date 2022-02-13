@@ -3,11 +3,6 @@
 ### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
-### Falsehoods
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
-  💊 Curated list of falsehoods programmers believe in.    
-  Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
-
 ### Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
