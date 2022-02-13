@@ -165,6 +165,7 @@
 - [Well-explained Software licenses in TLDR version](https://tldrlegal.com/)
 
 ### Where To Look For Further Info
+- [Ded Security](https://www.dedsecurity.com)
 - [freeCodeCamp Guide](https://guide.freecodecamp.org/)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/)
 - [Dev.To](https://dev.to/)
